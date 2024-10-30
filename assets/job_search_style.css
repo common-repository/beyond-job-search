@@ -1,0 +1,30 @@
+.beyond_search_widget .form_table { background:#fff; width:92%; padding:1% 3%; border:2px solid #2368A1 !important;  position:relative; 
+	-webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px;
+}
+.beyond_search_widget .form_table h2 { color: #2368A1; font-size: 27px; margin:10px 5px; }
+.beyond_search_widget .form_table h3 { color: #2368A1; font-size: 18px; }
+.beyond_search_widget .form_table input[type="submit"] { color:white; border-radius:4px; padding:3px 8px; background: #2368A1; border: 1px solid #2368A1; cursor:pointer; }
+.beyond_search_widget .form_table input[type="submit"]:hover{color:white !important; border-radius:4px; padding:3px 8px; background: #2368A1; 
+	border: 1px solid #2368A1; cursor:pointer; 
+}
+.beyond_search_widget .form_table label { margin-bottom:10px; display: block; }
+
+.beyond_search_widget h2.Title { background:#2368A1 !important; color:#fff !important; width:100%; padding:0px 0px !important; margin:5px 0px !important; text-align:center !important; height:30px !important; line-height:30px !important; border-radius:4px 4px !important; -webkit-border-radius:4px 4px !important; font-size:12px !important; text-transform:uppercase !important; font-weight:bold !important; }
+
+.beyond_search_widget .center  { text-align:center; }
+.beyond_search_widget .error { border: 1px solid #f00 !important; }
+.beyond_search_widget #imagereload { display:none; text-align:center; }
+
+.beyond_search_widget .footertxt{ text-align:center; margin-bottom:10px; }
+.beyond_search_widget .footertxt img { margin-bottom:-14px; }
+
+.beyond_search_widget #reponse .job_detail { margin:10px 0 15px 0;}
+.beyond_search_widget #reponse .job_title { color:#0000FF; border-bottom:#000 solid 1px; }
+.beyond_search_widget #reponse .heading { margin:5px 0px; }
+.beyond_search_widget #reponse .job_detail span { color:#33CCFF; }
+.beyond_search_widget #reponse .job_detail p { margin:0px; }
+
+.beyond_search_widget .record_error{ margin:20px auto; font-size:16px; font-weight:bold; text-align:center; }
+.beyond_search_widget .more_jobs { font-weight:bold; text-align:center; }
+
+.beyond_search_widget .more_jobs a { background:#2368A1; color:#fff !important; text-decoration:none; text-align:center; padding:3px 10px; display:block; line-height:20px; border-radius:4px; -moz-border-radius: 4px;  -webkit-border-radius:4px; border:1px solid #2368A1; }
